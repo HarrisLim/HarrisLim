@@ -17,4 +17,3 @@ Here are some ideas to get you started:
 ### 🍀 My Stats
 ![Harris's GitHub stats](https://github-readme-stats.vercel.app/api?username=HarrisLim&hide=contribs&theme=cobalt&line_height=24)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HarrisLim&&layout=compact&theme=cobalt)
-![LeetCode Stats](https://leetcard.jacoblin.cool/LeetCode?theme=nord&font=Noto%20Sans%20Gunjala%20Gondi&ext=activity)
